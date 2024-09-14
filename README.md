@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hello, I'm Ajay!
 <h3>A passionate AI and Machine Learning Engineer.</h3>
 
+![gitartwork](gitartwork.svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-cs-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-cs-tech" /> </p>
 
