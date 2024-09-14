@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
+- Reach out: ajaycsujjini@gmail.com
+
 
 ## 🛠️ Tech Stack & Skills
 
@@ -53,9 +55,6 @@
 
 [![GitHub](https://img.shields.io/github/followers/mihirmakwana03?label=Follow%20Me&style=social)](https://github.com/ajay-cs-tech)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Makwana-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mihir-makwana-a098a21b7/)](https://www.linkedin.com/in/ajay-cs/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-mihirpmakwana786@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mihirpmakwana786@gmail.com)](mailto:ajaycsujjini@gmail.com)
 
 ---
 
