@@ -5,16 +5,8 @@
 
 - 🌱 I’m currently learning **Machine learning and MERN Stack**
 
-- 👨‍💻 My Portfolio [https://ajaycs.netlify.app](https://ajaycs.netlify.app)
-
-- 📫 How to reach me **ajaycsujjini@gmail.com**
-
 - ⚡ Fun fact **I think I am Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajay-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-cs" height="30" width="40" /></a>
-</p>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -54,6 +46,20 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=flat-square&logo=Google-chrome&logoColor=white)]( https://ajaycs.netlify.app)
+
+[![GitHub](https://img.shields.io/github/followers/mihirmakwana03?label=Follow%20Me&style=social)](https://github.com/ajay-cs-tech)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Makwana-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mihir-makwana-a098a21b7/)](https://www.linkedin.com/in/ajay-cs/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-mihirpmakwana786@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mihirpmakwana786@gmail.com)](mailto:ajaycsujjini@gmail.com)
+
+---
+
+*Thank you for visiting my profile! I'm always excited to connect with like-minded individuals and explore new opportunities. Feel free to reach out!*
 
 
 
