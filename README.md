@@ -1,14 +1,23 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hello, I'm Ajay!
 <h3>A passionate AI and Machine Learning Engineer.</h3>
 
+<a href="https://github.com/ajay-cs-tech" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/ajaycs" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ajay-cs" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=flat-square&logo=Google-chrome&logoColor=white)]( https://ajaycs.netlify.app)
+
 ![gitartwork](gitartwork.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-cs-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-cs-tech" /> </p>
 
 - 🌱 I’m currently learning **Machine learning and MERN Stack**
-
-- ⚡ Fun fact **I think I am Funny**
 
 - Reach out: ajaycsujjini@gmail.com
 
@@ -54,9 +63,9 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=flat-square&logo=Google-chrome&logoColor=white)]( https://ajaycs.netlify.app)
 
-[![GitHub](https://img.shields.io/github/followers/mihirmakwana03?label=Follow%20Me&style=social)](https://github.com/ajay-cs-tech)
+
+
 
 
 ---
