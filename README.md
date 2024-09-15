@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/ajay-cs" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=flat-square&logo=Google-chrome&logoColor=white)]( https://ajaycs.netlify.app)
 
 ![gitartwork](gitartwork.svg)
@@ -61,7 +62,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🔗 Links
 
 
 
