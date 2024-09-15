@@ -19,7 +19,7 @@
 ![gitartwork](gitartwork.svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-cs-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-cs-tech" /> </p>
+
 
 - 🌱 I’m currently learning **Machine learning and MERN Stack**
 
