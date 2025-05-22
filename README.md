@@ -21,7 +21,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine learning, MERN Stack and Web3 Blockchain Development**
+- 🌱 I’m currently into **Machine learning, Deep learning and AI in general**
 
 - Reach out: ajaycsujjini@gmail.com
 
